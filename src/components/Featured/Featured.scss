@@ -1,0 +1,30 @@
+.companies {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 0;
+  .index {
+    margin: 0 35px;
+  }
+
+  .companies_img {
+    width: 45%;
+  }
+  .com_name {
+    margin-bottom: 20px;
+    color: red;
+  }
+
+  .line {
+    content: '';
+    display: block;
+    width: 300px;
+    border-bottom: 2px solid #bcbcbc;
+    margin: 20px 0px;
+  }
+  .com_description {
+    font-size: 15px;
+    width: 300px;
+  }
+}

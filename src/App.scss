@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; //*****sehr gut
+  // box-sizing: inherit; von Carlos
+}
+
+a {
+  text-decoration: none;
+}
+ul {
+  padding-left: 0;
+}
+li {
+  list-style: none;
+}
+button {
+  border-radius: 10px;
+  width: 10%;
+  padding: 9px;
+  font-size: 7px;
+  background-color: transparent;
+  cursor: pointer;
+}
+section:not(.footer, .companies) {
+  padding: 50px;
+  // text-align: center;
+  // margin: auto;
+}
+h1 {
+  font-size: 2em;
+  font-weight: 700;
+}

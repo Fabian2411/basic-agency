@@ -1,0 +1,53 @@
+.starts {
+  .here {
+    text-align: right;
+  }
+
+  video {
+    margin-top: 20px;
+    width: 100%;
+    height: 40vh;
+  }
+  .hero_down {
+    border-top: 2px solid lightgrey;
+    border-bottom: 2px solid lightgrey;
+    padding: 10px 0px 100px;
+  }
+  .concept {
+    font-size: 12px;
+    margin-bottom: 20px;
+  }
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .description {
+    width: 50%;
+    font-size: 1.5em;
+  }
+  img {
+    width: 25%;
+    height: 15vh;
+  }
+  button:hover {
+    background-color: black;
+    color: #fff;
+  }
+  .featured {
+    padding: 7em 0 0;
+    .title {
+      padding-bottom: 3em;
+    }
+  }
+  .black{
+    background-color: #252422;
+    article{
+      display: flex;
+      justify-content: space-between;
+      .basicHelp{
+        color: #f9cdcd;
+      }
+    }
+  }
+}
