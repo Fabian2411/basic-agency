@@ -1,0 +1,34 @@
+.basicNews{
+    h2{
+        color: pink;
+        margin-bottom: 5vh;
+    }
+    .news{
+        display: flex;
+        margin-bottom: 5vh;
+        border-top: 2px solid lightgrey;
+        padding-top:20px;
+        color: pink;
+        .bilder{
+            height: 30vh;
+            margin-right: 1vw;
+        }
+        .bigInfo{
+            width: 40vw;
+            margin-right: 26vw;
+            h3{
+                margin-bottom: 21vh;
+            }
+            .smallInfo{
+                display: flex;
+                p{
+                    margin-right: 2vw;
+                }
+            }
+        }
+        .arrow{
+            width: 40px;
+            padding-bottom: 50px;
+        }
+    }
+}

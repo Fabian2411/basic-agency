@@ -4,6 +4,7 @@ import './Basic.scss';
 import logo from '../assets/img/branding-img.svg';
 import mp4 from '../assets/img/Hero.mp4';
 import mp42 from '../assets/img/Culture.mp4';
+import BasicNews from '../components/BasicNews/BasicNews';
 
 // sfc
 const Basic = () => {
@@ -46,6 +47,7 @@ const Basic = () => {
                         </video>
                     </div>
                 </article>
+                <BasicNews />
             </section>
         </div>
     );
