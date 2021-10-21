@@ -1,0 +1,47 @@
+[
+    {
+        "title":"STRATEGIC PLANNING",
+        "text1":"Customer Experience",
+        "text2":"Consumer Insights + Trends",
+        "text3":"Omnichannel + D2C",
+        "text4":"Product + Service Vision",
+        "text5":"Go-To-Market Planning",
+        "text6":"Data Science + Analytics"
+    },
+    {
+        "title":"USER EXPERIENCE",
+        "text1":"Experience Strategy",
+        "text2":"eCommerce + Websites",
+        "text3":"Digital Product + Services",
+        "text4":"Design Systems + Style Guides",
+        "text5":"iOS + Android Applications",
+        "text6":"Prototyping & Optimizatione"
+    },
+    {
+        "title":"BRAND EXPERIENCE",
+        "text1":"Identity + Positioning",
+        "text2":"Visual Language + Art Direction",
+        "text3":"Design Production + Execution",
+        "text4":"Brand Messaging",
+        "text5":"Brand Guidelines + Playbooks",
+        "text6":"Campaign Development"
+    },
+    {
+        "title":"TECHNOLOGY",
+        "text1":"Technical Discovery",
+        "text2":"Technical Architecture",
+        "text3":"Full-Stack Development",
+        "text4":"CMS Implementation",
+        "text5":"Quality Assurance",
+        "text6":"Campaign Development"
+    },
+    {
+        "title":"CONTENT CREATION",
+        "text1":"Content Strategy",
+        "text2":"Art Direction",
+        "text3":"Photography",
+        "text4":"Video Production",
+        "text5":"3D / Motion Graphics",
+        "text6":"Copywriting"
+    }
+]
